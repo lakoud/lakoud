@@ -13,7 +13,7 @@
 
 - 🔭 I'm a software developer [@futurevisions](https://www.futurevisions.tn/) in Sousse, Tunisia
 
-- 💬 Ask me about * Flutter**
+- 💬 Ask me about * Flutter * Laravel * 
 
 <!---
 lakoud/lakoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
