@@ -7,7 +7,7 @@
   <img src="https://github.com/lakoud/Ranya-lakoud/blob/main/ranyya-avatar.png" align="right" width="25%"/>
 
 - I'm a software engineer.
-- Professional Flutter developer.
+- Full stack developer .
 - I have 2 years of experience.
 - I enjoy working with Laravel, ReactJS, Flutter, and Firebase.
 
