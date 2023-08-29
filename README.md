@@ -1,43 +1,21 @@
-# [Rania Lakoud]
 
-## Software Freelancer | [Bizerte/Tunisia]
+<h1 align="center">Hi, I'm Ranya 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/rania-lakoud-b935a9186/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+ </p>
+  
+  <img src="https://github.com/lakoud/Ranya-lakoud/blob/main/ranyya-avatar.png" align="right" width="25%"/>
 
-👋 Hi there! I'm Rania lakoud, a passionate software freelancer based in [Sousse, Tunisia]. With a strong background in Web and mobile development, . My goal is to provide high-quality solutions that help businesses and individuals achieve their tech-related goals.
+- I'm a software engineer.
+- Full stack developer .
+- I have 2 years of experience.
+- I enjoy working with Laravel, ReactJS, Flutter, and Node.js.
 
-### Services
+- 🔭 I'm a software developer [@futurevisions](https://www.futurevisions.tn/) in Sousse, Tunisia
 
-- **Custom Software Development:** Crafting tailored software solutions to meet your specific needs, whether it's a web application, mobile app, or desktop software.
+- 💬 Ask me about * Flutter * Laravel * 
 
-- **Technical Consulting:** Providing expert advice on technology stacks, architecture, and best practices to ensure efficient and scalable projects.
-
-- **Code Review and Optimization:** Reviewing codebases for performance, security, and maintainability improvements, and optimizing them for better efficiency.
-
-- **Bug Fixing and Maintenance:** Offering support to identify and fix bugs, and providing ongoing maintenance to keep your software up-to-date.
-
-### Tech Stack
-
-- **Languages:** [List of Programming Languages]
-- **Frameworks:** [List of Frameworks]
-- **Tools:** [List of Tools and Technologies]
-- **Databases:** [List of Databases]
-- **Version Control:** [Version Control System, e.g., Git]
-
-### Portfolio Highlights
-
-Here are some of my recent projects:
-
-1. **[Project Name](Link to Project Repository)** - Short description of the project, technologies used, and your role.
-
-2. **[Project Name](Link to Project Repository)** - Short description of the project, technologies used, and your role.
-
-3. **[Project Name](Link to Project Repository)** - Short description of the project, technologies used, and your role.
-
-### Contact Me
-
-📧 Feel free to reach out to me via email at [Your Email Address] or visit my [Website/Portfolio Link] to learn more about my services and projects.
-
-🔗 Let's connect: [LinkedIn Profile](Link to LinkedIn) | [Twitter Profile](Link to Twitter) | [GitHub Profile](Link to GitHub)
-
----
-
-Thank you for visiting my GitHub profile. I'm excited to collaborate on interesting projects and contribute to the software development community. If you're looking for a dedicated software freelancer with a keen eye for detail and a commitment to delivering excellence, let's talk!
+<!---
+lakoud/lakoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
