@@ -9,7 +9,7 @@
 - I'm a software engineer.
 - Full stack developer .
 - I have 2 years of experience.
-- I enjoy working with Laravel, ReactJS, Flutter, and Firebase.
+- I enjoy working with Laravel, ReactJS, Flutter, and Node.js.
 
 - 🔭 I'm a software developer [@futurevisions](https://www.futurevisions.tn/) in Sousse, Tunisia
 
