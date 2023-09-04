@@ -11,9 +11,9 @@
 - I have 3 years of experience.
 - I enjoy working with Laravel, ReactJS, Flutter, and Node.js.
 
-- 🔭 I'm a software developer [@futurevisions](https://www.futurevisions.tn/) in Sousse, Tunisia
+- 🔭 I'm a software developer freelancer in Sousse, Tunisia
 
-- 💬 Ask me about * Flutter * Laravel * 
+- 💬 Ask me about * Flutter * Laravel * React.js * Node.js
 
 <!---
 lakoud/lakoud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
