@@ -8,7 +8,7 @@
   
   <img src="https://github.com/lakoud/Ranya-lakoud/blob/main/ranyya-avatar.png" align="right" width="25%"/>
 
-- I'm a software engineer.
+
 - Full stack developer .
 - I have 3 years of experience.
 - I enjoy working with Laravel, ReactJS, Flutter, and Node.js.
