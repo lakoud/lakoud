@@ -14,12 +14,13 @@
 
 ### 🚀 About Me
 
-- 🎯 Full Stack Developer with **3+ years** of hands-on experience.
-- 🛠️ Skilled in **Python**, **React.js**, **Flutter**, and **Node.js**.
-- 🧠 Passionate about building innovative web & mobile applications.
-- 🏢 Currently working as a **Software Engineer** at **AnelAI**, Tunis.
+- 🎯 Full Stack Developer with **3+ years** of experience.
+- 🛠️ Strong skills in **Python**, **React.js**, **Flutter**, and **Node.js**.
+- 🤖 Growing expertise in **NLP**, **LLMs**, and **AI integration** in web/mobile projects.
+- 🧩 Freelance developer working on **custom web apps**, **mobile apps**, and **AI-powered solutions**.
+- 🏢 Currently **Software Engineer** at **AnelAI**, Tunis.
 - 📚 Graduated in **Software Engineering** from EPI Multidisciplinary School.
-- 💬 Feel free to ask me about **Flutter**, **React.js**, **Python**, or **Node.js**.
+- 💬 Open to collaborations and freelance missions in **Full Stack Development** & **AI projects**.
 
 ---
 
