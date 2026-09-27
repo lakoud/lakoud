@@ -17,7 +17,6 @@
 
 ### 🚀 About Me
 
-- 💼 **CEO & Founder @ Wainar Software** — custom software, web & mobile products.
 - 👩‍💻 **Software Engineer @ AnelAI**, Tunis.
 - 🎯 Full Stack Developer with **3+ years** of hands-on experience.
 - 🤖 Focused on **NLP**, **LLMs** and **AI integration** in web & mobile products.
