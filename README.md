@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rania Lakoud</h1>
-<h3 align="center">Full Stack Developer · AI Enthusiast · CEO @ Wainar Software</h3>
+<h3 align="center">Full Stack Developer · AI Enthusiast 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rania-lakoud-b935a9186/" target="_blank">
