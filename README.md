@@ -157,16 +157,14 @@ Full-stack e-commerce platform developed end-to-end.
 🔗 https://arabbookcenter.com/
 
 ---
+## 🔨 Currently Working With
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lakoud&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakoud&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
-</p>
+- 🐍 Building backend services with **Python & FastAPI**
+- 🧠 Developing **RAG pipelines and LLM-powered applications**
+- 🔎 Working with **Qdrant, embeddings and vector search**
+- 🏗️ Designing **microservices architectures**
+- 🐳 Deploying applications with **Docker, Kubernetes, Nginx & CI/CD**
+- 🌐 Building full-stack applications with **React.js & Next.js**
 
 ---
 
